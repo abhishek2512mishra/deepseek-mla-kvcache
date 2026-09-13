@@ -5,6 +5,10 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](LICENSE)
 
+<p align="center">
+  <img src="https://eyestech.in/wp-content/uploads/2026/09/deepseek-mla-architecture-kv-cache-reduction.jpg" alt="DeepSeek Multi-Head Latent Attention MLA Architecture: 93% KV Cache Reduction" width="100%" />
+</p>
+
 A clean, standalone, production-grade PyTorch reference implementation of **DeepSeek Multi-Head Latent Attention (MLA)** featuring **Query Absorption**, **Decoupled RoPE**, and bare-metal **KV Cache Memory Benchmarking** up to 128k context windows.
 
 > 📖 **Canonical Systems Audit**:  
