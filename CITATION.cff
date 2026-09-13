@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you cite this reference implementation, benchmark data, or architectural audit, please cite it as below."
+authors:
+  - family-names: "Fischer"
+    given-names: "Klaus"
+    affiliation: "EyesTech Systems Lab"
+  - family-names: "Ranganathan"
+    given-names: "Devika"
+    affiliation: "EyesTech Systems Lab"
+title: "DeepSeek Multi-Head Latent Attention (MLA) Reference Kernel & KV Cache Memory Scaling Benchmark"
+version: 1.0.0
+date-released: 2026-09-12
+url: "https://eyestech.in/deepseek-mla-architecture-kv-cache-math/"
+repository-code: "https://github.com/eyestech-labs/deepseek-mla-kvcache"
+license: "MIT"
+keywords:
+  - "deepseek"
+  - "multi-head latent attention"
+  - "mla"
+  - "kv cache"
+  - "inference optimization"
+  - "vllm"
+  - "sglang"
