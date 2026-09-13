@@ -11,7 +11,7 @@ title: "DeepSeek Multi-Head Latent Attention (MLA) Reference Kernel & KV Cache M
 version: 1.0.0
 date-released: 2026-09-12
 url: "https://eyestech.in/deepseek-mla-architecture-kv-cache-math/"
-repository-code: "https://github.com/eyestech-labs/deepseek-mla-kvcache"
+repository-code: "https://github.com/abhishek2512mishra/deepseek-mla-kvcache"
 license: "MIT"
 keywords:
   - "deepseek"

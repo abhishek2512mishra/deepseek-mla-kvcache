@@ -36,7 +36,7 @@ In autoregressive large language model serving, the primary hardware bottleneck 
 ### 1. Installation
 Clone the repository and install PyTorch:
 ```bash
-git clone https://github.com/eyestech-labs/deepseek-mla-kvcache.git
+git clone https://github.com/abhishek2512mishra/deepseek-mla-kvcache.git
 cd deepseek-mla-kvcache
 pip install -r requirements.txt
 ```
